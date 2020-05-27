@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": null,
+  "data": {
+    "sources": [
+      {
+        "name": "Source Name",
+        "totalInventory": 430,
+        "availableInventory": 69
+      }
+    ]
+  }
+}
